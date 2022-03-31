@@ -26,4 +26,3 @@ In your Terminal
 ```
 git clone https://github.com/AbirLOUARD/Detect-CreditCard-Fraud.git
 ```
-
